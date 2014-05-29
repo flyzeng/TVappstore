@@ -5,8 +5,8 @@ hello word
 hello word do you know
 zhong guo ren ming da xue
 zhe shi shen me dong xi
-<<<<<<< HEAD
 123456789
-=======
 yi er san
->>>>>>> 9ab51ac8404e5d1c90ceb094fc2a31f0c8231c42
+
+hahhahhahahahahhahahahahahahahahahahahaahahahhaahahha
+
